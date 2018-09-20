@@ -18,14 +18,10 @@ Four Super simple samples included.
 ### 4.Draw Pixel
 ![4][4]
 
-![1][1]  
-  
-![2][2]
 
 
 
-
-  [1]: (https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/HelloWorld.png)
-  [2]: (https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/LoadBMP.png)
-  [3]: (https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/SDLGL.png)
-  [4]: (https://github.com/SilangQuan/SDL4Mac/blob/master/screenshots/DrawPixel.png)
+  [1]: https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/HelloWorld.png
+  [2]: https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/LoadBMP.png
+  [3]: https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/SDLGL.png
+  [4]: https://github.com/SilangQuan/SDL4Mac/blob/master/screenshots/DrawPixel.png
