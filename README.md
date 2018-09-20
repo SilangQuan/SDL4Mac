@@ -2,14 +2,14 @@
 SDL2 simple demos in mac.
 Four Super simple samples included.
 
-##1.Hello world.
-
-##2.BmpViewer
-
-##3.OpenGL
-
-##4.Draw Pixel
-
+## 1.Hello world.
+![](https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/HelloWorld.png)
+## 2.BmpViewer
+![](https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/LoadBMP.png)
+## 3.OpenGL
+![](https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/SDLGL.png)
+## .Draw Pixel
+![](https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/DrawPixel.png)
 
 
 OS: 10.13.6
