@@ -1,0 +1,60 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch_helloworld",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/play",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "build-debug", 
+        },
+        {
+            "name": "Launch_loadbmp",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/play",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "build-loadbmp", 
+        },
+        {
+            "name": "Launch_gl",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/play",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "build-gl", 
+        },
+        {
+            "name": "Launch_drawpoint",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/play",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true, 
+            "MIMode": "lldb",
+            "preLaunchTask": "build-drawpixel", 
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build-debug",
+            "command": "g++ SDLInit.cpp -g -o play -I include -L lib -l SDL2-2.0.0",
+            "type": "shell"
+        },
+
+        {
+            "label": "build-loadbmp",
+            "command": "g++ LoadBMP.cpp -g -o play -I include -L lib -l SDL2-2.0.0",
+            "type": "shell"
+        },
+        {
+            "label": "build-gl",
+            "command": "g++ SDLGL.cpp -g -o play -I include -L lib -l SDL2-2.0.0 -framework OpenGL",
+            "type": "shell"
+        },
+        {
+            "label": "build-drawpixel",
+            "command": "g++ DrawPixel.cpp -g -o play -I include -L lib -l SDL2-2.0.0",
+            "type": "shell"
+        }
+    ]
+}
