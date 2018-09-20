@@ -21,7 +21,7 @@ Four Super simple samples included.
 
 
 
-  [1]: https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/HelloWorld.png
-  [2]: https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/LoadBMP.png
-  [3]: https://github.com/SilangQuan/SDL4Mac/tree/master/screenshots/SDLGL.png
+  [1]: https://github.com/SilangQuan/SDL4Mac/blob/master/screenshots/HelloWorld.png
+  [2]: https://github.com/SilangQuan/SDL4Mac/blob/master/screenshots/LoadBMP.png
+  [3]: https://github.com/SilangQuan/SDL4Mac/blob/master/screenshots/SDLGL.png
   [4]: https://github.com/SilangQuan/SDL4Mac/blob/master/screenshots/DrawPixel.png
